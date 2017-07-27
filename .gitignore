@@ -1,3 +1,7 @@
+material2test/material2-start/node_modules/*
+quickstart/node_modules/*
+t2/node_modules/*
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
